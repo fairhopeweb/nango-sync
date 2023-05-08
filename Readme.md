@@ -1,8 +1,13 @@
-<div align="center">
+<!--- <div align="center">
   
   ![Nango Logo](https://uploads-ssl.webflow.com/63c092e946f9b71ff6874169/63d3a435a6b96f3ad3e73312_nango-logo.png)
 
-</div>
+</div> --->
+
+> **Warning**
+>
+> This repo is deprecated: We recommend you check out the [Nango open-source unified API](https://github.com/NangoHQ/nango) instead.
+> You get many of the same benefits that Nango Sync provided (and all its flexibility of working with any API) but additional help thanks to aggregation and data schema mapping. 
 
 <h1 align="center">Integrate your app with 3rd-party APIs, fast</h1>
 
@@ -33,6 +38,14 @@ The service that lets you easily synchronise data between your app and any 3rd-p
 <p align="center">
    <a href="https://www.ycombinator.com"><img src="https://img.shields.io/badge/Backed%20by-Y%20Combinator-%23f26625"></a>
 </p>
+
+# ⚠️ This repo is deprecated, use the [Nango open-source unified API](https://github.com/NangoHQ/nango) instead
+
+This repo is deprecated: We recommend you check out the [Nango open-source unified API](https://github.com/NangoHQ/nango) instead.
+
+You get many of the same benefits that Nango Sync provided (and all its flexibility of working with any API) but additional help thanks to aggregation and data schema mapping.
+
+Questions about migrating or anything else? Please reach out on the Slack community.
 
 # ⭐️ Why Nango?
 
